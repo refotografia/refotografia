@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @refotografia
-- visual artist exploring the role of chance in photography, applying image formation interventions and exploring apparatus subversions
-- 👀 I’m interested in ... photography
-- 🌱 I’m currently learning ... python and flutter
-- 💞️ I’m looking to collaborate on ... photography projects
-- 📫 How to reach me ... refotografia.wordpress.com
-- 😄 Pronouns: ... he
-- ⚡ Fun fact: ... i like dumpster diving
+<h1>Hi!</h1>
 
-<!---
-refotografia/refotografia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>I am interested in creating photographs of everyday life and the life cycles of what surrounds me. I conduct research in experimental photography, which includes the reuse of electronic waste (I like dumpster diving) and photographic equipment and materials (refotografia.wordpress.com).</p>
+
+<p>I’m also looking to collaborate on photography projects.</p>
